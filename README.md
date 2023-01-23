@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning; about AI 
+- 🌱 I’m currently learning; Some frontend development maybe
 - 👯 Can collaborate on; Computational Design Projects
 - 📫 Email; on kd7894281[at]gmail.com
 - 😄 Pronouns: he/him
