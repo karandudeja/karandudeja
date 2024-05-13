@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning; Some Unity and Some web development maybe
+- 🌱 I’m currently working on; software development - iOS, Frontend and XR with Unity
 - 👯 Can collaborate on; Computational Design Projects
-- 📫 Email; on designxkd[at]gmail.com
+- 📫 Email; on codexkd[at]gmail.com
 - 😄 Pronouns: he/him
 <!--
 **karandudeja/karandudeja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
