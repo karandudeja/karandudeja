@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently working on; software development - iOS, Frontend and XR with Unity
+- 🌱 I’m currently working on; software development - Web Frontend with ReactJS
 - 👯 Can collaborate on; Computational Design Projects
 - 📫 Email; on codexkd[at]gmail.com
 - 😄 Pronouns: he/him
